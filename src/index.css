@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgImage{
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    min-height: 31rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.95;
+}
+
+.bgImage::after{
+    content: "";
+    width: 100%;
+    position: absolute;
+    background-image: linear-gradient(180deg,transparent, hsla(220,15%,7%,1));
+    backdrop-filter: blur(0.5rem);
+    min-height: 31rem;
+}
+
+@media (min-width: 1024px){
+    .bgImage{
+        min-height: 42rem;
+    }
+    .bgImage::after{
+        min-height: 42rem;
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 897087,
+  "results": [
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "UK Trailer",
+      "key": "W0k2XerT8Nw",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "official": true,
+      "published_at": "2023-12-13T16:29:12.000Z",
+      "id": "657a21364d23dd00c6aad5b1"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Official Trailer (Greenband)",
+      "key": "r_pUE7OcN8w",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "official": true,
+      "published_at": "2023-08-25T14:12:02.000Z",
+      "id": "64e9333b594c9400acb02141"
+    },
+    {
+      "iso_639_1": "en",
+      "iso_3166_1": "US",
+      "name": "Official Trailer (Redband)",
+      "key": "6ura9bYCDJg",
+      "site": "YouTube",
+      "size": 1080,
+      "type": "Trailer",
+      "official": true,
+      "published_at": "2023-08-21T16:30:35.000Z",
+      "id": "64e3c9c906f984014e6643fa"
+    }
+  ]
+}
